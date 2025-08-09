@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 **Backend & Systems**
-- **Languages:** C, C++, C#, .NET, currently learning Java, JS, React, Node.JS
+- **Languages:** C, C++, C#, .NET, Lua, currently learning Java, JS, React, Node.JS
 - **Databases:** MongoDB, SQLite, MySQL  
 - **Containerization:** Docker  
 - **OS:** Windows, Linux (Ubuntu/Arch)  
@@ -23,15 +23,6 @@
 **Game Development**
 - **Engines:** Unity, Unreal Engine  
 - **Embedded Systems:** Arduino
-
----
-
-## 📌 About Me ()
-- 🖥 **Back-end first**: Designing efficient, scalable systems from scratch.  
-- 🛢 **Database wizard**: From relational MySQL to NoSQL MongoDB.  
-- ⚡ **Performance obsessed**: Optimizing code and workflows for speed and reliability.  
-- 🎮 **Game tech tinkerer**: Building gameplay systems, tools, and performance-critical modules.  
-- 🔧 **Hardware curious**: Integrating Arduino into creative projects.  
 
 ---
 
